@@ -1,0 +1,8 @@
+
+# Backup
+*.bak
+*-backups
+
+# Temporary
+.*.tmp
+

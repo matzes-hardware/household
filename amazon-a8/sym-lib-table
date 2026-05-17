@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Amazon A8")(type "KiCad")(uri "${KIPRJMOD}/amazon-a8.kicad_sym")(options "")(descr ""))
+)

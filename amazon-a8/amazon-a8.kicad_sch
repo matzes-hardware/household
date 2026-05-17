@@ -1,0 +1,56 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "9f1a0874-1bce-4f2c-93ae-9e32653a74a9")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 74.93 38.1)
+		(size 28.194 23.114)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d23bbfd4-fa67-4f4b-b8b7-608ee36853d9")
+		(property "Sheetname" "Power Supply"
+			(at 74.93 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power-supply.kicad_sch"
+			(at 74.93 61.7986 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "amazon-a8"
+				(path "/9f1a0874-1bce-4f2c-93ae-9e32653a74a9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
