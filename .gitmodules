@@ -1,0 +1,5 @@
+[submodule "lib/kicad"]
+	path = lib/kicad
+	url = https://github.com/matthiasbock/kicad-libraries
+	branch = air-purifier
+
