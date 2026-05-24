@@ -2,7 +2,9 @@
 # Backup
 *.bak
 *-backups
+\#auto_saved_files\#
 
 # Temporary
 .*.tmp
+~*.lck
 
